@@ -1,0 +1,33 @@
+/* .reset-btn {
+  border: none;
+  border-radius: 3px;
+  background-color: rgb(228, 129, 8);
+  font-size: 30px;
+  font-weight: 600;
+  margin-top: 30px;
+} */
+
+.reset-btn {
+  justify-content: center;
+  text-align: center;
+  margin: 20px auto;
+  transition: 100ms;
+}
+.versus {
+  font-size: 100px;
+  font-weight: 700;
+  color: blanchedalmond;
+}
+.text-player {
+  font-weight: 500;
+  font-size: 50px;
+  color: blanchedalmond;
+}
+.selection {
+  cursor: pointer;
+  transition: 100ms;
+}
+
+.selection:hover {
+  transform: scale(1.2);
+}
